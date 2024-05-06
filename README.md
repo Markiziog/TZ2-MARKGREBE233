@@ -1,3 +1,6 @@
+
+![Java CI with Maven](https://github.com/Markiziog/TZ2-MARKGREBE233.git/actions/workflows/java-ci.yml/badge.svg?branch=main)
+
 # TZ2-MARKGREBE233
 # Описание работы программы
 
