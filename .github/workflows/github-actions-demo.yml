@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -35,4 +36,3 @@ jobs:
         if: failure()
         run: |
           curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "${{ secrets.TELEGRAM_CHAT_ID }}", "text": "Ошибка! Сборка не удалась."}' https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage
-
