@@ -1,5 +1,5 @@
 
-![Java CI with Maven](https://github.com/Markiziog/TZ2-MARKGREBE233.git/actions)
+![Java CI with Maven](https://github.com/Markiziog/TZ2-MARKGREBE233/actions)
 
 # TZ2-MARKGREBE233
 # Описание работы программы
