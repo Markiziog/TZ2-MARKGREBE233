@@ -1,5 +1,5 @@
 
-![Java CI with Maven](https://github.com/Markiziog/TZ2-MARKGREBE233/actions)
+![Java CI with Maven](https://github.com/Markiziog/TZ2-MARKGREBE233/actions/workflows/github-actions-demo.yml/badge.svg?branch=main)
 
 # TZ2-MARKGREBE233
 # Описание работы программы
